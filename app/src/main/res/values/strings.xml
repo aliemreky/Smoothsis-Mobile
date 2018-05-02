@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMOOTHSIS</string>
+
+    <string-array name="spinnerVardiya">
+        <item>00-08</item>
+        <item>08-16</item>
+        <item>16-24</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/URETIM_INCKEY"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:background="@drawable/cell_shape"
+        android:ellipsize="end"
+        android:paddingBottom="9dp"
+        android:paddingTop="9dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:singleLine="true"
+        android:textColor="@color/Black">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/SIPARIS_KODU"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:background="@drawable/cell_shape"
+        android:ellipsize="end"
+        android:paddingBottom="9dp"
+        android:paddingTop="9dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:singleLine="true"
+        android:textColor="@color/Black">
+
+    </TextView>
+
+
+    <TextView
+        android:id="@+id/STOK_KODU"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.15"
+        android:background="@drawable/cell_shape"
+        android:ellipsize="end"
+        android:paddingBottom="9dp"
+        android:paddingTop="9dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:singleLine="true"
+        android:textColor="@color/Black">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/ISLEM_NO"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.1"
+        android:background="@drawable/cell_shape"
+        android:ellipsize="end"
+        android:paddingBottom="9dp"
+        android:paddingTop="9dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:singleLine="true"
+        android:textColor="@color/Black">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/ISLEM"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:background="@drawable/cell_shape"
+        android:ellipsize="end"
+        android:paddingBottom="9dp"
+        android:paddingTop="9dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:singleLine="true"
+        android:textColor="@color/Black">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/MAKINE"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:background="@drawable/cell_shape"
+        android:ellipsize="end"
+        android:paddingBottom="9dp"
+        android:paddingTop="9dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:singleLine="true"
+        android:textColor="@color/Black">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/YUZDE"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:background="@drawable/cell_shape"
+        android:ellipsize="end"
+        android:paddingBottom="9dp"
+        android:paddingTop="9dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:singleLine="true"
+        android:textColor="@color/Black">
+
+    </TextView>
+
+</LinearLayout>
