@@ -363,7 +363,7 @@ public class ReportAddition extends AppCompatActivity {
                     if (rapor_state) {
                         mProgress.dismiss();
                         Toast.makeText(ReportAddition.this, "Rapor Başarıyla Kaydedildi", Toast.LENGTH_LONG).show();
-                        //new SendMail().execute("");
+                        new SendMail().execute("");
                     } else {
                         Toast.makeText(ReportAddition.this, "HATA! Rapor Kaydedilemedi", Toast.LENGTH_LONG).show();
                     }
